@@ -1,25 +1,11 @@
-class Persona
-{ 
-    var nombre:String = "" 
-    var apellido:String = "" 
-    constructor()
-    { 
+class Persona(var nombre:String, var apellido:String)
 
-    } 
-    constructor(n:String, a:String):this() 
-    {
-        nombre=n
-        apellido=a
-    }
- }
- 
- fun main()
- { 
-    var persona = Persona("Yesser","Miranda") 
-    var nueva = Persona() 
-    nueva.nombre = "Juan" 
+fun main(){
+    var persona = Persona("Yesser","Miranda")
+    var nueva = Persona()
+    nueva.nombre = "Juan"
     nueva.apellido = "Lopez"
 
-    println(persona.nombre) 
+    println(persona.nombre)
     println(nueva.nombre)
- }
+}
