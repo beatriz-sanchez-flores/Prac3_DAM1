@@ -62,3 +62,4 @@
 <img src="Medios\17.PNG"/>
 
 * Analice bien el resultado, confirme cambios en GIT. Observe que se hace una lista de figuraspero se agregan objetos de otro tipo, entonces, indique porque se nos permite esto.
+<img src="Medios\18.PNG"/>
