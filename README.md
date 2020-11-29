@@ -44,3 +44,21 @@
 * Analice bien el resultado, tomando en cuenta que la propiedad nombre pertenece a Persona y no a estudiante.
 
 * Ejercicio: La universidad URACCAN, requiere de un control de personas en su recinto, de la universidad únicamente se almacenará el recinto y dirección. Teniendo en cuenta que en la universidad encontramos Estudiantes, Profesores y administrativos. Los datos en común de todos ellos que se pueden declarar en persona son: nombre, apellido, cedula y edad. De los estudiantes se requiere el nivel educativo y el nombre de su profesor representante. De los profesores se requiere: facultad y cantidad de asignaturas. De los administrativos se requiere: área de trabajo y nombre del jefe inmediato. Debe tener en cuenta que se debe crear una lista de personas que pueden ser Estudiantes, Profesores y Administrativos
+
+* Es posible que el ejercicio anterior necesite más información y ejemplos, para eso una clase figura con la palabra clave open
+
+<img src="Medios\13.png"/>
+
+* Luego de haber creado la clase anterior agregue el código para una clase Cuadrado que herede de figura y que cancele con override el método dibujar de su clase padre.
+
+<img src="Medios\14.png"/>
+
+* De la misma manera agregue dos clases más una de Circulo y otra de Triangulo que hereden de Figura. Cada una con un mensaje personalizado.
+
+<img src="Medios\15.png"/>
+<img src="Medios\16.png"/>
+
+* Ahora solo nos queda probar en la función main
+<img src="Medios\17.png"/>
+
+* Analice bien el resultado, confirme cambios en GIT. Observe que se hace una lista de figuraspero se agregan objetos de otro tipo, entonces, indique porque se nos permite esto.
