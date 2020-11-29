@@ -14,7 +14,7 @@
 
 * Los constructores en kotlin se pueden declarar usando la palabra clave constructor o se puede omitir si se establecen las propiedades a lado del nombre de la clase.
 * Copie el siguiente código en un fichero llamado Persona.kt
-<img src="Medios\5.png"/>
+<img src="Medios\5.1.png"/>
 
 * Imprima los resultados e indique que operación realizamos. confirme cambios en GIT
 * Cambie la estructura de la clase anterior a la siguiente y luego confirme en GIT
