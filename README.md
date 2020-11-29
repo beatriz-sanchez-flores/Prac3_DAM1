@@ -43,7 +43,7 @@
 
 * Analice bien el resultado, tomando en cuenta que la propiedad nombre pertenece a Persona y no a estudiante.
 
-* Ejercicio: La universidad URACCAN, requiere de un control de personas en su recinto, de la universidad únicamente se almacenará el recinto y dirección. Teniendo en cuenta que en la universidad encontramos Estudiantes, Profesores y administrativos. Los datos en común de todos ellos que se pueden declarar en persona son: nombre, apellido, cedula y edad. De los estudiantes se requiere el nivel educativo y el nombre de su profesor representante. De los profesores se requiere: facultad y cantidad de asignaturas. De los administrativos se requiere: área de trabajo y nombre del jefe inmediato. Debe tener en cuenta que se debe crear una lista de personas que pueden ser Estudiantes, Profesores y Administrativos
+* Ejercicio 2: La universidad URACCAN, requiere de un control de personas en su recinto, de la universidad únicamente se almacenará el recinto y dirección. Teniendo en cuenta que en la universidad encontramos Estudiantes, Profesores y administrativos. Los datos en común de todos ellos que se pueden declarar en persona son: nombre, apellido, cedula y edad. De los estudiantes se requiere el nivel educativo y el nombre de su profesor representante. De los profesores se requiere: facultad y cantidad de asignaturas. De los administrativos se requiere: área de trabajo y nombre del jefe inmediato. Debe tener en cuenta que se debe crear una lista de personas que pueden ser Estudiantes, Profesores y Administrativos
 
 * Es posible que el ejercicio anterior necesite más información y ejemplos, para eso una clase figura con la palabra clave open
 
@@ -63,3 +63,8 @@
 
 * Analice bien el resultado, confirme cambios en GIT. Observe que se hace una lista de figuraspero se agregan objetos de otro tipo, entonces, indique porque se nos permite esto.
 <img src="Medios\18.PNG"/>
+
+* Ejercicio 1: Cree una lista de personas y recorra la lista usando un for, agregue 3
+personas y muestre los resultados de los datos de cada persona:
+
+<img src="Medios\19.PNG"/>
