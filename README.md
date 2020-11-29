@@ -47,18 +47,18 @@
 
 * Es posible que el ejercicio anterior necesite más información y ejemplos, para eso una clase figura con la palabra clave open
 
-<img src="Medios\13.png"/>
+<img src="Medios\13.PNG"/>
 
 * Luego de haber creado la clase anterior agregue el código para una clase Cuadrado que herede de figura y que cancele con override el método dibujar de su clase padre.
 
-<img src="Medios\14.png"/>
+<img src="Medios\14.PNG"/>
 
 * De la misma manera agregue dos clases más una de Circulo y otra de Triangulo que hereden de Figura. Cada una con un mensaje personalizado.
 
-<img src="Medios\15.png"/>
-<img src="Medios\16.png"/>
+<img src="Medios\15.PNG"/>
+<img src="Medios\16.PNG"/>
 
 * Ahora solo nos queda probar en la función main
-<img src="Medios\17.png"/>
+<img src="Medios\17.PNG"/>
 
 * Analice bien el resultado, confirme cambios en GIT. Observe que se hace una lista de figuraspero se agregan objetos de otro tipo, entonces, indique porque se nos permite esto.
